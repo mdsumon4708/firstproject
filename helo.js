@@ -8,3 +8,9 @@ function sumon(fname, lname){
 }
 
 sumon("md", "sumon")
+
+function a(){
+    console.log("Hello Branch B");
+    
+}
+a();
